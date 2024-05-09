@@ -1,2 +1,2 @@
-# POO_Java
-Java Orientado a Objetos
+# OOP_Java
+Object Oriented Programming in Java
